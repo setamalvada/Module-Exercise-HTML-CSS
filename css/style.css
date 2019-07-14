@@ -1,0 +1,239 @@
+nav {
+   background-color: #C12127;
+   color: rgba(255,255,255,0.8);
+   padding-top: 15px;
+   padding-bottom: 15px;
+ }
+ 
+ nav a {
+   color: rgba(255,255,255,0.8);
+   text-decoration: none;
+ }
+ 
+ .top-links {
+   display: inline-block;
+   float: right;
+   padding: 0;
+   margin: 0 20px 0 0;
+ }
+ 
+ .top-links li {
+   display: inline-block;
+   margin: 0 10px;
+ }
+ 
+ header {
+   background-color: rgb(32,101,136);
+   color: rgba(255,255,255,0.8);
+   padding-top: 1px;
+ }
+ 
+ .parent {
+   padding-top: 15px;
+   padding-bottom: 15px;
+   display: -webkit-flex;
+  /* Safari */
+   -webkit-flex-direction: row-reverse;
+  /* Safari 6.1+ */
+   display: flex;
+   flex-direction: row-reverse;
+ }
+ 
+ #logo {
+   height: 40px;
+   width: 7%;
+   margin-right: 18px;
+ }
+ 
+ .searchb {
+   border: 1px solid grey;
+   display: inline-block;
+   width: 1000px;
+   height: 40px;
+   background-color: rgb(31,82,111);
+ }
+ 
+ .button0 {
+   width: 40px;
+   height: 44px;
+   background-color: rgb(31,82,111);
+ }
+ 
+ .sign {
+   padding: 10px;
+   margin-left: 18px;
+   margin-right: 18px;
+ }
+ 
+ .icon {
+   height: 40px;
+   width: 40px;
+   margin-right: 18px;
+ }
+ 
+ .top-left {
+   display: inline-block;
+   float: right;
+   padding: 0;
+   margin: 0 20px 0 0;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 15px;
+ }
+ 
+ .main {
+   position: relative;
+   width: 100%;
+   height: 550px;
+ }
+ 
+ .main2 {
+   background-image: url(../images/city-scape.svg);
+   background-repeat: repeat;
+   position: relative;
+   width: 100%;
+   height: 400px;
+ }
+ 
+ .main3 {
+   background-image: url(../images/forklift.svg);
+   background-repeat: repeat;
+   position: relative;
+   width: 100%;
+   height: 480px;
+   border: 1px solid transparent;
+ }
+ 
+ .d0 {
+   position: relative;
+   left: 150px;
+   top: 50px;
+ }
+ 
+ .h11 {
+   font-size: 50px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-weight: normal;
+ }
+ 
+ .h12 {
+   font-size: 45px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-weight: normal;
+ }
+ 
+ .d00 {
+   position: relative;
+   left: 50px;
+   top: 80px;
+ }
+ 
+ .d1 {
+   width: 40%;
+   margin: 0;
+   float: left;
+ }
+ 
+ .d2 {
+   width: 60%;
+   margin: 0;
+   float: left;
+ }
+ 
+ .image {
+   width: 70%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 100px;
+ }
+ 
+ .d3 {
+   position: relative;
+   padding: 100px;
+ }
+ 
+ h1 {
+   text-align: left;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .list1 {
+   text-align: left;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   line-height: 1.5;
+   font-size: 20px;
+ }
+ 
+ .button2 {
+   -moz-border-radius: 28px;
+   -webkit-border-radius: 28px;
+   border-radius: 28px;
+   display: inline-block;
+   cursor: pointer;
+   color: #ffffff;
+   font-family: Arial;
+   font-size: 17px;
+   padding: 10px 28px;
+   text-decoration: none;
+ }
+ 
+ h4 {
+   text-align: center;
+   color: rgb(83,88,98);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ footer {
+   margin: auto;
+   width: 60%;
+   padding: 10px;
+ }
+ 
+ .footer {
+   text-align: center;
+   color: rgb(135,145,156);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ p {
+   text-align: center;
+   color: rgb(135,145,156);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ b {
+   text-align: center;
+   color: rgb(135,145,156);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ a {
+   color: rgb(208,74,73);
+ }
+ 
+ #left {
+   float: left;
+   width: 33%;
+ }
+ 
+ #right {
+   float: right;
+   width: 33%;
+ }
+ 
+ #center {
+   margin: auto;
+   width: 33%;
+ }
+ 
+ .centered {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ 
+ 
+ 
